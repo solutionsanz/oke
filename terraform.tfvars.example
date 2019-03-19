@@ -43,7 +43,7 @@ n020_secDisplayNameLbr = "${var.n020_secDisplayNameLbr}"
 n021_secDisplayNameWkr = "${var.n021_secDisplayNameWkr}"
 
 ### OKE ###
-k009_kubeVers = "v1.11.5"
+k009_kubeVers = "v1.12.6"
 k007_wkrNodeShape = "VM.Standard2.1"
 k001_quantityWkrSubnets = "2"
 k002_quantityPerSubnet = "1"
